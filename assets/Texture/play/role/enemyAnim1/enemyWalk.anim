@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "enemyWalk",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.85,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "47332822-345d-4e10-839c-ca76c1df59c0"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "f1cff995-9892-44b9-8961-b09be3c30788"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "89a03d7b-4197-4eef-9a21-cbcb8371c298"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "16da31f7-4fb2-481c-9a4f-503ac9e236dc"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "40cc025f-5f2b-43af-af0c-9969951c618d"
+            }
+          },
+          {
+            "frame": 0.8333333333333334,
+            "value": {
+              "__uuid__": "de39ac47-513b-4c8f-ad0b-0fee69a359ed"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

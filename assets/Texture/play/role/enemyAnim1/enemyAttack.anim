@@ -1,0 +1,60 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "enemyAttack",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.6833333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "f6fd9df6-fbc4-494d-b188-4ca0c65092ce"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "ee4bb71a-630c-4032-b9ec-33008385e9ac"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "2590c830-2284-4c94-9eda-c2dd42b9cd32"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "3a20a6c3-361c-4c58-a0a9-d2e0beedcb34"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "9cef2251-f987-40b1-a9f3-597d978ed009"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0.5166666666666667,
+      "func": "onAttackHalf",
+      "params": []
+    },
+    {
+      "frame": 0.6833333333333333,
+      "func": "onAttackEnd",
+      "params": []
+    }
+  ]
+}
